@@ -15,6 +15,7 @@
 
 # Plate Support
 ![alt text](https://raw.githubusercontent.com/Royster0/RoySauce-60/main/image/plate%20support.jpg)
+![alt text](https://raw.githubusercontent.com/Royster0/RoySauce-60/main/image/plate.jpg)
 
 # Screws
 - Top Mount Screws (6x): [M2.5x5 panhead](https://www.mcmaster.com/92095A457/)
