@@ -23,5 +23,5 @@
 - Weight Screws (4x): [M3x5 countersunk](https://www.mcmaster.com/92125A125/)
 
 # Notice
-This design has not been tested, use at your own risk.
-Thought not required, if you end up creating a project using this file or a derivative of it, please be sure to let me know! I might even be able to lend a hand.
+This design has not been tested, use it at your own risk.
+Though not required, if you end up creating a project using this file or a derivative of it, please be sure to let me know! I might even be able to lend a hand.
